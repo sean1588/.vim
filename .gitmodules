@@ -4,3 +4,9 @@
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = git@github.com:vim-airline/vim-airline.git
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = git@github.com:Raimondi/delimitMate.git
+[submodule "bundle/limelight.vim"]
+	path = bundle/limelight.vim
+	url = git@github.com:junegunn/limelight.vim.git
